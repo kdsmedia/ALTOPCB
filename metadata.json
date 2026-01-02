@@ -1,0 +1,6 @@
+
+{
+  "name": "AltoPCB AI Designer",
+  "description": "Professional-grade PCB design platform with integrated Gemini 3.0 reasoning for DRC validation and layout optimization.",
+  "requestFramePermissions": []
+}
